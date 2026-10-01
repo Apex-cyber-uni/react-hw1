@@ -1,8 +1,10 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { Animal } from './animal/animal';
+import { Recipe } from './recipe/recipe';
 
 @Component({
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, Animal, Recipe],
   selector: 'app-root',
   styleUrl: './app.css',
   templateUrl: './app.html',

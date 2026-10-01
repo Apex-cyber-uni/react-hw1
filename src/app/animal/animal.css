@@ -30,24 +30,6 @@
     line-height: 1.2;
 }
 
-.section h2 {
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: #555555;
-    text-align: center;
-    margin: 0 0 8px 0;
-}
-
-.section h3 {
-    font-size: 0.95rem;
-    font-weight: 400;
-    color: #888888;
-    text-align: center;
-    margin: 0 0 30px 0;
-    padding-bottom: 25px;
-    border-bottom: 1px solid #eeeeee; 
-}
-
 .section p {
     font-size: 1.05rem;
     line-height: 1.7;
